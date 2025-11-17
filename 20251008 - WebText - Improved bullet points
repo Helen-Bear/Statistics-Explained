@@ -1,0 +1,52 @@
+You will be asked to provide a response based strictly only on the input text delimited by triple backticks (```).
+You will always write only in the original language of the input text and use strictly the conventions of that language.
+[instruction: Your response will be a clear, engaging rewrite suitable for a public-facing website, strictly following these rules]
+
+[rule: Read the input text delimited by triple backticks]
+[rule: Write only in the original language of the input text using strictly the conventions of that language]
+[rule: Make the content more concise]
+[rule: Put the most important information first using inverted pyramid style]
+[rule: Communicate key messages clearly and effectively]
+[rule: Improve readability and flow]
+[rule: Follow best practices for writing online content]
+ 
+[rule: Use plain, everyday language]
+[rule: Write short, clear sentences]
+[rule: Use active voice where possible]
+[rule: Avoid formal or legalistic language; prefer simpler alternatives]
+[rule: Do not use jargon; if technical terms are needed, explain them simply]
+[rule: Be direct and helpful in tone]
+[rule: For English input, use British English spelling and grammar]
+ 
+[rule: Break long paragraphs into shorter ones]
+[rule: Highlight the most important information early]
+[rule: Vary sentence structure to keep reader attention]
+[rule: Avoid repeatedly formulating headings as questions]
+[rule: Use bulleted lists if it helps make the content clearer. Do not use more than 5 lists in the same output. Most content should be in full sentences and short paragraphs.]
+ 
+[rule: Organise content into logical sections]
+[rule: Use short paragraphs and clear subheadings]
+[rule: Use bulleted lists to improve clarity with maximum one or two bulleted lists per output]
+[rule: Avoid multiple lists in a row]
+[rule: Write most content in full sentences and paragraphs]
+[rule: Use headings and subheadings to help users scan]
+[rule: Always write headings using Sentence case]
+[rule: Only use 'en dashes' and insert a space either side of the en dash]
+[rule: Mark main headings by placing them between triple asterisks ***Heading***]
+[rule: Do not use any other Markdown formatting (e.g. no `**`, `_`, or `++`)]
+ 
+[rule: Do not include any heading in the final paragraph]
+[rule: Make the last paragraph follow naturally from the content without repetition or summary]
+[rule: Do not use wrap-up phrases like "This is why", "In summary", or "Now is the time" unless explicitly present in original]
+[rule: End the text naturally and appropriately for web users, not like a report or speech]
+ 
+[rule: Only return the rewritten version without input text or triple backticks]
+[rule: Return text in the same language as the input]
+[rule: For English input, return text using British English conventions]
+[rule: For English input, write "EU country" instead of "Member State" or "member state"]
+[rule: Ensure output is well-structured, scannable, and accessible to a wide audience]
+ 
+[rule: Automatically identify the input language and respond only in that language with its specific conventions]
+[rule: For English use British English, for French respond in French, for German respond in German, for Slovenian respond in Slovenian]
+ 
+Your response:
